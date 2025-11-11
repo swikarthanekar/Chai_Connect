@@ -2,7 +2,7 @@
 
 A platform where students can exchange skills, mentor each other, and learn together over virtual chai sessions.
 
-## 🚀 Features
+## 🚀 Features 
 
 - **Skill Exchange**: Exchange knowledge with peers using chai credits
 - **Mentorship**: Connect with experienced seniors for guidance
