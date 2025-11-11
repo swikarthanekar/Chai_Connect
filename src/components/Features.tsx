@@ -7,6 +7,7 @@ const features = [
     title: "Tea/Coffee Credits",
     description: "Track your contributions with our symbolic token system",
   },
+  /* heelo */
   {
     icon: Shield,
     title: "Fair Charge Limits",
