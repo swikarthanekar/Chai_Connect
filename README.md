@@ -59,10 +59,6 @@ src/
 
 MIT License - feel free to use this project for learning and development.
 
-## 👥 Team
-
-- [Your Name] - Project Lead & Developer
-- [Add team members]
 
 ## 🌟 Acknowledgments
 
