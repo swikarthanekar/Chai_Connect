@@ -41,7 +41,7 @@ npm run dev
 
 ```
 src/
-  ├── components/     # Reusable UI components
+  ├── components/    # Reusable UI components
   ├── pages/         # Page components/routes
   ├── assets/        # Static assets
   └── lib/           # Utilities and helpers
