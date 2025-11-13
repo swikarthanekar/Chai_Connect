@@ -5,7 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
-import UserProfile from "./pages/UserProfile";
+import UserProfile from "./pages/UserProfile"; 
 import MyProfile from "./pages/UserProfileOwn";
 import ForumPage from "./pages/forum/Forum";
 import SkillExchangeBoard from "./pages/exchange/SkillExchange";
