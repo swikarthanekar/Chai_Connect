@@ -59,8 +59,3 @@ src/
 
 MIT License - feel free to use this project for learning and development.
 
-
-## 🌟 Acknowledgments
-
-- Shadcn for the amazing UI components
-- All contributors and early testers
